@@ -33,5 +33,5 @@ while True:
                     if abs(index_y - thumb_y) < 20:
                         pyautogui.click()
                         pyautogui.sleep(1)
-    cv2.imshow('VM By Jagath', frame)
+    cv2.imshow('HM By Jagath', frame)
     cv2.waitKey(1)
